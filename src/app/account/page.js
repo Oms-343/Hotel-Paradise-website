@@ -1,13 +1,13 @@
 export const metadata = {
-    title: "Account",
-    
-  };
-
+  title: "Account",
+};
 
 function Page() {
-    return (
-        <h1>account</h1>
-    )
+  return (
+    <h2 className="font-semibold text-2xl text-accent-400 mb-7">
+      Welcome, king
+    </h2>
+  );
 }
 
-export default Page
+export default Page;
