@@ -1,3 +1,7 @@
+import Logo from "./_components/Logo";
+import Navigation from "./_components/Navigation";
+
+import  "@/app/_styles/globals.css"
 
 
 export const metadata = {
@@ -8,7 +12,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>
+      <body className="">
+        <header>
+          <Logo />
+          <Navigation />
+        </header>
         {children}
       </body>
     </html>
