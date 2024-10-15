@@ -1,6 +1,6 @@
 ## NOTE: This application is not mobile responsive (you can use desktop mode on chrome to view on your mobile device )
 
-Live link [page]()
+Live link [page](https://vercel.live/link/hotel-paradise-website-xi.vercel.app?via=project-dashboard-alias-list&p=1)
 
 ## Goal/Requirements📝
 
